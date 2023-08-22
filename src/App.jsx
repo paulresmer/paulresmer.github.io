@@ -22,14 +22,13 @@ function App() {
           <div class='about'>
             <h3>about me</h3>
             <p class='body'>
-              fan of cats. cs @ cornell
+              cs @ cornell '25
               <br /> average <a
                 href="https://open.spotify.com/user/l2461mtddjyawb7hv9jjjoe57?si=83f158a73ffc4c2b" target="_blank">music </a>
               / <a href="https://letterboxd.com/bubbybox88/" target="_blank">movie</a> / <a
                 href="https://www.kcet.org/shows/the-migrant-kitchen/kato-chef-jon-yaos-top-12-places-to-eat-in-the-san-gabriel-valley">food </a>
               enjoyer
-              <br />
-              aspiring to be employed in the Near Future
+              <br />pursuing opportunities for summer 2024 and beyond
               <h4>projects</h4>
               <a href="https://paulresmer.github.io/basic.ify/" target="_blank">basic.ify</a> - a web app that allows Spotify users to
               <br /> examine the uniqueness of their music tastes.
