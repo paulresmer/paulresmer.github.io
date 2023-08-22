@@ -7,7 +7,7 @@
 
 .logo {
   height: auto;
-  max-height: 30vw;
+  max-height: 30em;
   padding-right: 2em;
   max-width: 90%;
   will-change: filter;
@@ -28,27 +28,27 @@
 }
 
 .name {
-  font-size: 3vw;
+  font-size: 3em;
 }
 
 .routes {
-  font-size: 1vw;
+  font-size: 1em;
 }
 
 
 h3 {
-  font-size: 1.6vw;
+  font-size: 1.6em;
   margin-bottom: -1%;
 }
 
 h4 {
-  font-size: 1.6vw;
+  font-size: 1.6em;
   margin-bottom: 4%;
   margin-top: 4%;
 }
 
 .body {
-  font-size: 1vw;
+  font-size: 1em;
 }
 
 .logo:hover {
@@ -78,10 +78,10 @@ h4 {
 
 .card {
   padding: 2em;
-  font-size: 1vw;
+  font-size: 1em;
 }
 
 .read-the-docs {
   color: #888;
-  font-size: 1vw
+  font-size: 1em
 }
