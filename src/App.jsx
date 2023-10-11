@@ -22,7 +22,7 @@ function App() {
           <div class='about'>
             <h3>about me</h3>
             <p class='body'>
-              cs @ cornell '25
+              cs @ cornell
               <br /> average <a
                 href="https://open.spotify.com/user/l2461mtddjyawb7hv9jjjoe57?si=83f158a73ffc4c2b" target="_blank">music </a>
               / <a href="https://letterboxd.com/bubbybox88/" target="_blank">movie</a> / <a
